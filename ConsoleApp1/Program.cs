@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Fired 2 qwerty");
             Console.WriteLine("Fired 3 qwerty");
+            Console.WriteLine("Fired 3 features");
         }
     }
 }
