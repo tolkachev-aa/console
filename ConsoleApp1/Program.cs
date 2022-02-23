@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Fired 2 qwerty");        }
+            Console.WriteLine("Fired 2 qwerty");
+            Console.WriteLine("Fired 3 qwerty");
+        }
     }
 }
