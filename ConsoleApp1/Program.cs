@@ -10,6 +10,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Fired 2");        }
+            Console.WriteLine("Fired in branch1");        }
     }
 }
